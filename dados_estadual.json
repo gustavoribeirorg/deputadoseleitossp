@@ -1,0 +1,1378 @@
+{
+  "cargo": "Deputado Estadual",
+  "cargo_cod": 7,
+  "geral": {
+    "total_apurado": 24988550,
+    "validos": 22058324,
+    "brancos": 1740287,
+    "nulos": 1155375,
+    "secoes_pct": "94,88",
+    "horario": "20:27:39",
+    "qe": 234663,
+    "vagas": 94
+  },
+  "partidos": [
+    {
+      "sg": "PL",
+      "nm": "PARTIDO LIBERAL",
+      "fed": "-",
+      "tvtn": 5643264,
+      "tvtl": 313446,
+      "tot": 5956710,
+      "pct": 27.0,
+      "vagas": 27
+    },
+    {
+      "sg": "PT",
+      "nm": "PARTIDO DOS TRABALHADORES",
+      "fed": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "tvtn": 2983194,
+      "tvtl": 318778,
+      "tot": 3301972,
+      "pct": 14.97,
+      "vagas": 16
+    },
+    {
+      "sg": "PSD",
+      "nm": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "fed": "-",
+      "tvtn": 2126590,
+      "tvtl": 40615,
+      "tot": 2167205,
+      "pct": 9.82,
+      "vagas": 10
+    },
+    {
+      "sg": "PSOL",
+      "nm": "PARTIDO SOCIALISMO E LIBERDADE",
+      "fed": "FEDERAÇÃO PSOL REDE",
+      "tvtn": 1925164,
+      "tvtl": 57459,
+      "tot": 1982623,
+      "pct": 8.99,
+      "vagas": 9
+    },
+    {
+      "sg": "REPUBLICANOS",
+      "nm": "REPUBLICANOS",
+      "fed": "-",
+      "tvtn": 1402358,
+      "tvtl": 72250,
+      "tot": 1474608,
+      "pct": 6.69,
+      "vagas": 6
+    },
+    {
+      "sg": "PODE",
+      "nm": "PODEMOS",
+      "fed": "-",
+      "tvtn": 1248174,
+      "tvtl": 37575,
+      "tot": 1285749,
+      "pct": 5.83,
+      "vagas": 5
+    },
+    {
+      "sg": "MDB",
+      "nm": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "fed": "-",
+      "tvtn": 1109044,
+      "tvtl": 35286,
+      "tot": 1144330,
+      "pct": 5.19,
+      "vagas": 5
+    },
+    {
+      "sg": "PP",
+      "nm": "PROGRESSISTAS",
+      "fed": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "tvtn": 912103,
+      "tvtl": 116637,
+      "tot": 1028740,
+      "pct": 4.66,
+      "vagas": 5
+    },
+    {
+      "sg": "UNIÃO",
+      "nm": "UNIÃO BRASIL",
+      "fed": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "tvtn": 927347,
+      "tvtl": 22967,
+      "tot": 950314,
+      "pct": 4.31,
+      "vagas": 4
+    },
+    {
+      "sg": "PSB",
+      "nm": "PARTIDO SOCIALISTA BRASILEIRO",
+      "fed": "-",
+      "tvtn": 586098,
+      "tvtl": 112292,
+      "tot": 698390,
+      "pct": 3.17,
+      "vagas": 3
+    },
+    {
+      "sg": "MISSÃO",
+      "nm": "PARTIDO MISSÃO",
+      "fed": "-",
+      "tvtn": 373029,
+      "tvtl": 34166,
+      "tot": 407195,
+      "pct": 1.85,
+      "vagas": 1
+    },
+    {
+      "sg": "NOVO",
+      "nm": "PARTIDO NOVO",
+      "fed": "-",
+      "tvtn": 304739,
+      "tvtl": 26167,
+      "tot": 330906,
+      "pct": 1.5,
+      "vagas": 1
+    },
+    {
+      "sg": "PSDB",
+      "nm": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "fed": "FEDERAÇÃO PSDB CIDADANIA",
+      "tvtn": 309196,
+      "tvtl": 21196,
+      "tot": 330392,
+      "pct": 1.5,
+      "vagas": 1
+    },
+    {
+      "sg": "PRD",
+      "nm": "PARTIDO RENOVACAO DEMOCRATICA",
+      "fed": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA",
+      "tvtn": 151381,
+      "tvtl": 10110,
+      "tot": 161491,
+      "pct": 0.73,
+      "vagas": 1
+    },
+    {
+      "sg": "REDE",
+      "nm": "REDE SUSTENTABILIDADE",
+      "fed": "FEDERAÇÃO PSOL REDE",
+      "tvtn": 38602,
+      "tvtl": 122744,
+      "tot": 161346,
+      "pct": 0.73,
+      "vagas": 0
+    },
+    {
+      "sg": "PDT",
+      "nm": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+      "fed": "-",
+      "tvtn": 127377,
+      "tvtl": 24951,
+      "tot": 152328,
+      "pct": 0.69,
+      "vagas": 0
+    },
+    {
+      "sg": "PCDOB",
+      "nm": "PARTIDO COMUNISTA DO BRASIL",
+      "fed": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "tvtn": 129023,
+      "tvtl": 6556,
+      "tot": 135579,
+      "pct": 0.61,
+      "vagas": 0
+    },
+    {
+      "sg": "CIDADANIA",
+      "nm": "CIDADANIA",
+      "fed": "FEDERAÇÃO PSDB CIDADANIA",
+      "tvtn": 109242,
+      "tvtl": 9886,
+      "tot": 119128,
+      "pct": 0.54,
+      "vagas": 0
+    },
+    {
+      "sg": "SOLIDARIEDADE",
+      "nm": "SOLIDARIEDADE",
+      "fed": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA",
+      "tvtn": 88503,
+      "tvtl": 4576,
+      "tot": 93079,
+      "pct": 0.42,
+      "vagas": 0
+    },
+    {
+      "sg": "AVANTE",
+      "nm": "AVANTE",
+      "fed": "-",
+      "tvtn": 49515,
+      "tvtl": 7973,
+      "tot": 57488,
+      "pct": 0.26,
+      "vagas": 0
+    },
+    {
+      "sg": "DC",
+      "nm": "DEMOCRACIA CRISTÃ",
+      "fed": "-",
+      "tvtn": 31618,
+      "tvtl": 1525,
+      "tot": 33143,
+      "pct": 0.15,
+      "vagas": 0
+    },
+    {
+      "sg": "PV",
+      "nm": "PARTIDO VERDE",
+      "fed": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "tvtn": 24770,
+      "tvtl": 3612,
+      "tot": 28382,
+      "pct": 0.13,
+      "vagas": 0
+    },
+    {
+      "sg": "MOBILIZA",
+      "nm": "MOBILIZAÇÃO NACIONAL",
+      "fed": "-",
+      "tvtn": 19399,
+      "tvtl": 1853,
+      "tot": 21252,
+      "pct": 0.1,
+      "vagas": 0
+    },
+    {
+      "sg": "UP",
+      "nm": "UNIDADE POPULAR",
+      "fed": "-",
+      "tvtn": 13537,
+      "tvtl": 3291,
+      "tot": 16828,
+      "pct": 0.08,
+      "vagas": 0
+    },
+    {
+      "sg": "PSTU",
+      "nm": "PARTIDO SOCIALISTA  DOS TRABALHADORES UNIFICADO",
+      "fed": "-",
+      "tvtn": 6254,
+      "tvtl": 3226,
+      "tot": 9480,
+      "pct": 0.04,
+      "vagas": 0
+    },
+    {
+      "sg": "AGIR",
+      "nm": "AGIR",
+      "fed": "-",
+      "tvtn": 3431,
+      "tvtl": 1778,
+      "tot": 5209,
+      "pct": 0.02,
+      "vagas": 0
+    },
+    {
+      "sg": "DEMOCRATA",
+      "nm": "DEMOCRATA",
+      "fed": "-",
+      "tvtn": 2258,
+      "tvtl": 2199,
+      "tot": 4457,
+      "pct": 0.02,
+      "vagas": 0
+    },
+    {
+      "sg": "PCO",
+      "nm": "PARTIDO DA CAUSA OPERÁRIA",
+      "fed": "-",
+      "tvtn": 0,
+      "tvtl": 0,
+      "tot": 0,
+      "pct": 0.0,
+      "vagas": 0
+    }
+  ],
+  "eleitos": [
+    {
+      "num": "22011",
+      "nome": "EDUARDA CAMPOPIANO",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 1851549
+    },
+    {
+      "num": "13133",
+      "nome": "EDUARDO SUPLICY",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 622855
+    },
+    {
+      "num": "50700",
+      "nome": "SOFIA FAVERO",
+      "partido": "PSOL",
+      "agr": "FEDERAÇÃO PSOL REDE",
+      "votos": 386363
+    },
+    {
+      "num": "50789",
+      "nome": "CARLOS GIANNAZI",
+      "partido": "PSOL",
+      "agr": "FEDERAÇÃO PSOL REDE",
+      "votos": 351886
+    },
+    {
+      "num": "50000",
+      "nome": "PAULA DA BANCADA FEMINISTA",
+      "partido": "PSOL",
+      "agr": "FEDERAÇÃO PSOL REDE",
+      "votos": 311395
+    },
+    {
+      "num": "22800",
+      "nome": "GIOVANNI SANCHES",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 220261
+    },
+    {
+      "num": "20200",
+      "nome": "ROGERIO LINS",
+      "partido": "PODE",
+      "agr": "PODEMOS",
+      "votos": 203299
+    },
+    {
+      "num": "22444",
+      "nome": "TENENTE COIMBRA",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 191052
+    },
+    {
+      "num": "14014",
+      "nome": "RAFA MINATO",
+      "partido": "MISSÃO",
+      "agr": "PARTIDO MISSÃO",
+      "votos": 175832
+    },
+    {
+      "num": "22111",
+      "nome": "THOMAZ HENRIQUE",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 171754
+    },
+    {
+      "num": "50555",
+      "nome": "LUIZA ERUNDINA",
+      "partido": "PSOL",
+      "agr": "FEDERAÇÃO PSOL REDE",
+      "votos": 163353
+    },
+    {
+      "num": "50110",
+      "nome": "EDIANE MARIA",
+      "partido": "PSOL",
+      "agr": "FEDERAÇÃO PSOL REDE",
+      "votos": 163271
+    },
+    {
+      "num": "11111",
+      "nome": "DANILO JOAN",
+      "partido": "PP",
+      "agr": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "votos": 157257
+    },
+    {
+      "num": "11777",
+      "nome": "DELEGADO OLIM",
+      "partido": "PP",
+      "agr": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "votos": 157170
+    },
+    {
+      "num": "22322",
+      "nome": "DANI ALONSO",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 153253
+    },
+    {
+      "num": "15300",
+      "nome": "ITAMAR BORGES",
+      "partido": "MDB",
+      "agr": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "votos": 152710
+    },
+    {
+      "num": "50900",
+      "nome": "MONICA DAS PRETAS",
+      "partido": "PSOL",
+      "agr": "FEDERAÇÃO PSOL REDE",
+      "votos": 150345
+    },
+    {
+      "num": "15115",
+      "nome": "REGINA NUNES",
+      "partido": "MDB",
+      "agr": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "votos": 150201
+    },
+    {
+      "num": "13180",
+      "nome": "DUDA HIDALGO",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 149353
+    },
+    {
+      "num": "22222",
+      "nome": "MARCOS DAMASIO",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 143066
+    },
+    {
+      "num": "22000",
+      "nome": "RODRIGO ASHIUCHI",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 142582
+    },
+    {
+      "num": "13123",
+      "nome": "PROFESSORA BEBEL",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 135907
+    },
+    {
+      "num": "11911",
+      "nome": "SARGENTO CASTRO",
+      "partido": "PP",
+      "agr": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "votos": 135708
+    },
+    {
+      "num": "55555",
+      "nome": "ROGERIO NOGUEIRA",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 134315
+    },
+    {
+      "num": "22138",
+      "nome": "CONTE LOPES",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 132703
+    },
+    {
+      "num": "22110",
+      "nome": "FELIPE SERTANEJO",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 131011
+    },
+    {
+      "num": "45045",
+      "nome": "ANA CAROLINA SERRA",
+      "partido": "PSDB",
+      "agr": "FEDERAÇÃO PSDB CIDADANIA",
+      "votos": 130025
+    },
+    {
+      "num": "11190",
+      "nome": "TELHADINHA - CAPITÃO TELHADA",
+      "partido": "PP",
+      "agr": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "votos": 127019
+    },
+    {
+      "num": "22888",
+      "nome": "DELEGADA GRACIELA",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 124901
+    },
+    {
+      "num": "22777",
+      "nome": "ALEX MADUREIRA",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 121526
+    },
+    {
+      "num": "20007",
+      "nome": "DR. EDSON DA PAIOL",
+      "partido": "PODE",
+      "agr": "PODEMOS",
+      "votos": 116767
+    },
+    {
+      "num": "13633",
+      "nome": "LEONARDO GRANDINI",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 115666
+    },
+    {
+      "num": "10010",
+      "nome": "BRUNA FURLAN",
+      "partido": "REPUBLICANOS",
+      "agr": "REPUBLICANOS",
+      "votos": 114424
+    },
+    {
+      "num": "10222",
+      "nome": "DANILO CAMPETTI",
+      "partido": "REPUBLICANOS",
+      "agr": "REPUBLICANOS",
+      "votos": 114133
+    },
+    {
+      "num": "55855",
+      "nome": "BARROS MUNHOZ",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 113033
+    },
+    {
+      "num": "50100",
+      "nome": "MARIANA CONTI",
+      "partido": "PSOL",
+      "agr": "FEDERAÇÃO PSOL REDE",
+      "votos": 112815
+    },
+    {
+      "num": "44077",
+      "nome": "RAFAEL SARAIVA",
+      "partido": "UNIÃO",
+      "agr": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "votos": 101331
+    },
+    {
+      "num": "13644",
+      "nome": "RODRIGO MAR",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 101326
+    },
+    {
+      "num": "22422",
+      "nome": "PAULO MANSUR",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 101069
+    },
+    {
+      "num": "13131",
+      "nome": "EMÍDIO",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 98120
+    },
+    {
+      "num": "13114",
+      "nome": "ENIO TATTO",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 97140
+    },
+    {
+      "num": "22001",
+      "nome": "FRANCO SARDELLI",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 97003
+    },
+    {
+      "num": "15363",
+      "nome": "REINALDO ALGUZ",
+      "partido": "MDB",
+      "agr": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "votos": 96383
+    },
+    {
+      "num": "40640",
+      "nome": "CAIO FRANÇA",
+      "partido": "PSB",
+      "agr": "PARTIDO SOCIALISTA BRASILEIRO",
+      "votos": 94382
+    },
+    {
+      "num": "55400",
+      "nome": "MARTA COSTA",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 93621
+    },
+    {
+      "num": "22522",
+      "nome": "LETICIA AGUIAR",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 93375
+    },
+    {
+      "num": "44555",
+      "nome": "DOUGLAS GARCIA",
+      "partido": "UNIÃO",
+      "agr": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "votos": 92003
+    },
+    {
+      "num": "50500",
+      "nome": "DÉBORA CAMILO",
+      "partido": "PSOL",
+      "agr": "FEDERAÇÃO PSOL REDE",
+      "votos": 91559
+    },
+    {
+      "num": "55155",
+      "nome": "CARLA MORANDO",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 91314
+    },
+    {
+      "num": "13613",
+      "nome": "PAULO FIORILO",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 90884
+    },
+    {
+      "num": "13700",
+      "nome": "DONATO",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 90037
+    },
+    {
+      "num": "13134",
+      "nome": "LUIZ FERNANDO",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 89939
+    },
+    {
+      "num": "22123",
+      "nome": "RICARDO MADALENA",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 89928
+    },
+    {
+      "num": "55014",
+      "nome": "PARDINI",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 88972
+    },
+    {
+      "num": "22007",
+      "nome": "DANILO BALAS",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 88655
+    },
+    {
+      "num": "20000",
+      "nome": "LEANDRO BASSON",
+      "partido": "PODE",
+      "agr": "PODEMOS",
+      "votos": 87454
+    },
+    {
+      "num": "55455",
+      "nome": "ANALICE FERNANDES",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 86315
+    },
+    {
+      "num": "11000",
+      "nome": "DELEGADO MESQUITA",
+      "partido": "PP",
+      "agr": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "votos": 84540
+    },
+    {
+      "num": "55000",
+      "nome": "THAMMY MIRANDA",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 82413
+    },
+    {
+      "num": "22999",
+      "nome": "ROGÉRIO FRANCO",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 80151
+    },
+    {
+      "num": "13016",
+      "nome": "THAINARA FARIA",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 80075
+    },
+    {
+      "num": "15123",
+      "nome": "LÉO OLIVEIRA",
+      "partido": "MDB",
+      "agr": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "votos": 79397
+    },
+    {
+      "num": "22100",
+      "nome": "BRUNO ZAMBELLI",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 79233
+    },
+    {
+      "num": "10023",
+      "nome": "ELY SANTOS",
+      "partido": "REPUBLICANOS",
+      "agr": "REPUBLICANOS",
+      "votos": 79099
+    },
+    {
+      "num": "40211",
+      "nome": "VALDOMIRO LOPES",
+      "partido": "PSB",
+      "agr": "PARTIDO SOCIALISTA BRASILEIRO",
+      "votos": 78507
+    },
+    {
+      "num": "55125",
+      "nome": "MAURO BRAGATO",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 78029
+    },
+    {
+      "num": "40444",
+      "nome": "MARINA BRAGANTE",
+      "partido": "PSB",
+      "agr": "PARTIDO SOCIALISTA BRASILEIRO",
+      "votos": 75564
+    },
+    {
+      "num": "22190",
+      "nome": "CORONEL PAGANOTTO",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 74354
+    },
+    {
+      "num": "22345",
+      "nome": "JOÃO PAULO",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 74076
+    },
+    {
+      "num": "44044",
+      "nome": "SOLANGE FREITAS",
+      "partido": "UNIÃO",
+      "agr": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "votos": 72453
+    },
+    {
+      "num": "55055",
+      "nome": "RAFAEL SILVA JR",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 72381
+    },
+    {
+      "num": "10100",
+      "nome": "RENATA SENE",
+      "partido": "REPUBLICANOS",
+      "agr": "REPUBLICANOS",
+      "votos": 71893
+    },
+    {
+      "num": "20777",
+      "nome": "KAKA DO AUTISMO",
+      "partido": "PODE",
+      "agr": "PODEMOS",
+      "votos": 71646
+    },
+    {
+      "num": "13110",
+      "nome": "BARBA",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 70848
+    },
+    {
+      "num": "15000",
+      "nome": "CARUSO",
+      "partido": "MDB",
+      "agr": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "votos": 70297
+    },
+    {
+      "num": "13789",
+      "nome": "RÔMULO",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 69619
+    },
+    {
+      "num": "44001",
+      "nome": "EDSON GIRIBONI",
+      "partido": "UNIÃO",
+      "agr": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "votos": 69556
+    },
+    {
+      "num": "22500",
+      "nome": "LUCAS BOVE",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 69335
+    },
+    {
+      "num": "13310",
+      "nome": "MARCOLINO",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 69114
+    },
+    {
+      "num": "22022",
+      "nome": "CAPITÃO MOSART",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 68001
+    },
+    {
+      "num": "13121",
+      "nome": "ANA PERUGINI",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 67551
+    },
+    {
+      "num": "20520",
+      "nome": "FABIO FARIA DE SÁ",
+      "partido": "PODE",
+      "agr": "PODEMOS",
+      "votos": 65786
+    },
+    {
+      "num": "55235",
+      "nome": "DILADOR",
+      "partido": "PSD",
+      "agr": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "votos": 65485
+    },
+    {
+      "num": "10321",
+      "nome": "SEBASTIÃO SANTOS",
+      "partido": "REPUBLICANOS",
+      "agr": "REPUBLICANOS",
+      "votos": 65287
+    },
+    {
+      "num": "13456",
+      "nome": "BETH SAHAO",
+      "partido": "PT",
+      "agr": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "votos": 65155
+    },
+    {
+      "num": "22411",
+      "nome": "RODRIGO MORAES",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 65029
+    },
+    {
+      "num": "22300",
+      "nome": "LISBOA",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 64086
+    },
+    {
+      "num": "30111",
+      "nome": "GERSON PIRES",
+      "partido": "NOVO",
+      "agr": "PARTIDO NOVO",
+      "votos": 63240
+    },
+    {
+      "num": "10699",
+      "nome": "PAULO CORREA JR",
+      "partido": "REPUBLICANOS",
+      "agr": "REPUBLICANOS",
+      "votos": 62695
+    },
+    {
+      "num": "22122",
+      "nome": "ISAAC ANTUNES",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 60629
+    },
+    {
+      "num": "22343",
+      "nome": "THIAGO AURICCHIO",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 58384
+    },
+    {
+      "num": "22822",
+      "nome": "PUGINA",
+      "partido": "PL",
+      "agr": "PARTIDO LIBERAL",
+      "votos": 56938
+    },
+    {
+      "num": "50300",
+      "nome": "KEIT LIMA",
+      "partido": "PSOL",
+      "agr": "FEDERAÇÃO PSOL REDE",
+      "votos": 55933
+    },
+    {
+      "num": "25000",
+      "nome": "ATILA JACOMUSSI",
+      "partido": "PRD",
+      "agr": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA",
+      "votos": 50269
+    }
+  ],
+  "sobras_tot": 8,
+  "historico_sobras": [
+    {
+      "rodada": 1,
+      "partido": "PARTIDO SOCIALISTA BRASILEIRO",
+      "media": 232796.66666666666,
+      "cand": {
+        "num": "40444",
+        "nome": "MARINA BRAGANTE",
+        "partido": "PSB",
+        "votos": 75564
+      },
+      "runner": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "runner_media": 231062.2
+    },
+    {
+      "rodada": 2,
+      "partido": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "media": 231062.2,
+      "cand": {
+        "num": "13121",
+        "nome": "ANA PERUGINI",
+        "partido": "PT",
+        "votos": 67551
+      },
+      "runner": "PARTIDO LIBERAL",
+      "runner_media": 229104.23076923078
+    },
+    {
+      "rodada": 3,
+      "partido": "PARTIDO LIBERAL",
+      "media": 229104.23076923078,
+      "cand": {
+        "num": "22343",
+        "nome": "THIAGO AURICCHIO",
+        "partido": "PL",
+        "votos": 58384
+      },
+      "runner": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "runner_media": 228866.0
+    },
+    {
+      "rodada": 4,
+      "partido": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "media": 228866.0,
+      "cand": {
+        "num": "15000",
+        "nome": "CARUSO",
+        "partido": "MDB",
+        "votos": 70297
+      },
+      "runner": "PARTIDO LIBERAL",
+      "runner_media": 220618.88888888888
+    },
+    {
+      "rodada": 5,
+      "partido": "PARTIDO LIBERAL",
+      "media": 220618.88888888888,
+      "cand": {
+        "num": "22822",
+        "nome": "PUGINA",
+        "partido": "PL",
+        "votos": 56938
+      },
+      "runner": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "runner_media": 219894.88888888888
+    },
+    {
+      "rodada": 6,
+      "partido": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "media": 219894.88888888888,
+      "cand": {
+        "num": "44001",
+        "nome": "EDSON GIRIBONI",
+        "partido": "UNIÃO",
+        "votos": 69556
+      },
+      "runner": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "runner_media": 216720.5
+    },
+    {
+      "rodada": 7,
+      "partido": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "media": 216720.5,
+      "cand": {
+        "num": "55235",
+        "nome": "DILADOR",
+        "partido": "PSD",
+        "votos": 65485
+      },
+      "runner": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "runner_media": 216620.8125
+    },
+    {
+      "rodada": 8,
+      "partido": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "media": 216620.8125,
+      "cand": {
+        "num": "13456",
+        "nome": "BETH SAHAO",
+        "partido": "PT",
+        "votos": 65155
+      },
+      "runner": "PODEMOS",
+      "runner_media": 214291.5
+    }
+  ],
+  "proximos_fila": [
+    {
+      "partido": "PODEMOS",
+      "media": 214291.5,
+      "cand": {
+        "num": "20100",
+        "nome": "RICARDO FRANÇA",
+        "partido": "PODE",
+        "votos": 51621
+      }
+    },
+    {
+      "partido": "PARTIDO LIBERAL",
+      "media": 212739.64285714287,
+      "cand": {
+        "num": "22038",
+        "nome": "PAULO KOGOS",
+        "partido": "PL",
+        "votos": 56855
+      }
+    },
+    {
+      "partido": "REPUBLICANOS",
+      "media": 210658.2857142857,
+      "cand": {
+        "num": "10123",
+        "nome": "GILMACI SANTOS",
+        "partido": "REPUBLICANOS",
+        "votos": 60167
+      }
+    },
+    {
+      "partido": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "media": 203878.41176470587,
+      "cand": {
+        "num": "13622",
+        "nome": "JOÃO PAULO RILLO",
+        "partido": "PT",
+        "votos": 62135
+      }
+    },
+    {
+      "partido": "PARTIDO MISSÃO",
+      "media": 203597.5,
+      "cand": {
+        "num": "14000",
+        "nome": "RENATO BATTISTA",
+        "partido": "MISSÃO",
+        "votos": 84857
+      }
+    },
+    {
+      "partido": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "media": 197905.4,
+      "cand": {
+        "num": "44250",
+        "nome": "ALEXANDRE LEITE",
+        "partido": "UNIÃO",
+        "votos": 69501
+      }
+    },
+    {
+      "partido": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "media": 197018.63636363635,
+      "cand": {
+        "num": "55510",
+        "nome": "RITA PASSOS",
+        "partido": "PSD",
+        "votos": 62727
+      }
+    },
+    {
+      "partido": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "media": 190721.66666666666,
+      "cand": {
+        "num": "15777",
+        "nome": "PR ANDRE BUENO",
+        "partido": "MDB",
+        "votos": 68118
+      }
+    },
+    {
+      "partido": "PARTIDO NOVO",
+      "media": 165453.0,
+      "cand": {
+        "num": "30123",
+        "nome": "HENRIQUE KRIGNER",
+        "partido": "NOVO",
+        "votos": 63036
+      }
+    }
+  ],
+  "duelos_internos": [
+    {
+      "partido": "FEDERAÇÃO UNIÃO PROGRESSISTA",
+      "vagas": 9,
+      "ultimo": {
+        "num": "44001",
+        "nome": "EDSON GIRIBONI",
+        "partido": "UNIÃO",
+        "votos": 69556
+      },
+      "suplente": {
+        "num": "44250",
+        "nome": "ALEXANDRE LEITE",
+        "partido": "UNIÃO",
+        "votos": 69501
+      },
+      "diff": 55
+    },
+    {
+      "partido": "PARTIDO LIBERAL",
+      "vagas": 27,
+      "ultimo": {
+        "num": "22822",
+        "nome": "PUGINA",
+        "partido": "PL",
+        "votos": 56938
+      },
+      "suplente": {
+        "num": "22038",
+        "nome": "PAULO KOGOS",
+        "partido": "PL",
+        "votos": 56855
+      },
+      "diff": 83
+    },
+    {
+      "partido": "PARTIDO NOVO",
+      "vagas": 1,
+      "ultimo": {
+        "num": "30111",
+        "nome": "GERSON PIRES",
+        "partido": "NOVO",
+        "votos": 63240
+      },
+      "suplente": {
+        "num": "30123",
+        "nome": "HENRIQUE KRIGNER",
+        "partido": "NOVO",
+        "votos": 63036
+      },
+      "diff": 204
+    },
+    {
+      "partido": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "vagas": 5,
+      "ultimo": {
+        "num": "15000",
+        "nome": "CARUSO",
+        "partido": "MDB",
+        "votos": 70297
+      },
+      "suplente": {
+        "num": "15777",
+        "nome": "PR ANDRE BUENO",
+        "partido": "MDB",
+        "votos": 68118
+      },
+      "diff": 2179
+    },
+    {
+      "partido": "REPUBLICANOS",
+      "vagas": 6,
+      "ultimo": {
+        "num": "10699",
+        "nome": "PAULO CORREA JR",
+        "partido": "REPUBLICANOS",
+        "votos": 62695
+      },
+      "suplente": {
+        "num": "10123",
+        "nome": "GILMACI SANTOS",
+        "partido": "REPUBLICANOS",
+        "votos": 60167
+      },
+      "diff": 2528
+    },
+    {
+      "partido": "PARTIDO SOCIAL DEMOCRÁTICO",
+      "vagas": 10,
+      "ultimo": {
+        "num": "55235",
+        "nome": "DILADOR",
+        "partido": "PSD",
+        "votos": 65485
+      },
+      "suplente": {
+        "num": "55510",
+        "nome": "RITA PASSOS",
+        "partido": "PSD",
+        "votos": 62727
+      },
+      "diff": 2758
+    },
+    {
+      "partido": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL",
+      "vagas": 16,
+      "ultimo": {
+        "num": "13456",
+        "nome": "BETH SAHAO",
+        "partido": "PT",
+        "votos": 65155
+      },
+      "suplente": {
+        "num": "13622",
+        "nome": "JOÃO PAULO RILLO",
+        "partido": "PT",
+        "votos": 62135
+      },
+      "diff": 3020
+    },
+    {
+      "partido": "PODEMOS",
+      "vagas": 5,
+      "ultimo": {
+        "num": "20520",
+        "nome": "FABIO FARIA DE SÁ",
+        "partido": "PODE",
+        "votos": 65786
+      },
+      "suplente": {
+        "num": "20100",
+        "nome": "RICARDO FRANÇA",
+        "partido": "PODE",
+        "votos": 51621
+      },
+      "diff": 14165
+    },
+    {
+      "partido": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA",
+      "vagas": 1,
+      "ultimo": {
+        "num": "25000",
+        "nome": "ATILA JACOMUSSI",
+        "partido": "PRD",
+        "votos": 50269
+      },
+      "suplente": {
+        "num": "25678",
+        "nome": "ALAN LEAL",
+        "partido": "PRD",
+        "votos": 17650
+      },
+      "diff": 32619
+    },
+    {
+      "partido": "PARTIDO SOCIALISTA BRASILEIRO",
+      "vagas": 3,
+      "ultimo": {
+        "num": "40444",
+        "nome": "MARINA BRAGANTE",
+        "partido": "PSB",
+        "votos": 75564
+      },
+      "suplente": {
+        "num": "40000",
+        "nome": "ABIDAN HENRIQUE",
+        "partido": "PSB",
+        "votos": 41662
+      },
+      "diff": 33902
+    },
+    {
+      "partido": "FEDERAÇÃO PSOL REDE",
+      "vagas": 9,
+      "ultimo": {
+        "num": "50300",
+        "nome": "KEIT LIMA",
+        "partido": "PSOL",
+        "votos": 55933
+      },
+      "suplente": {
+        "num": "50013",
+        "nome": "JR. FREITAS",
+        "partido": "PSOL",
+        "votos": 21472
+      },
+      "diff": 34461
+    },
+    {
+      "partido": "FEDERAÇÃO PSDB CIDADANIA",
+      "vagas": 1,
+      "ultimo": {
+        "num": "45045",
+        "nome": "ANA CAROLINA SERRA",
+        "partido": "PSDB",
+        "votos": 130025
+      },
+      "suplente": {
+        "num": "45777",
+        "nome": "DRA. DAMARIS MOURA",
+        "partido": "PSDB",
+        "votos": 44671
+      },
+      "diff": 85354
+    },
+    {
+      "partido": "PARTIDO MISSÃO",
+      "vagas": 1,
+      "ultimo": {
+        "num": "14014",
+        "nome": "RAFA MINATO",
+        "partido": "MISSÃO",
+        "votos": 175832
+      },
+      "suplente": {
+        "num": "14000",
+        "nome": "RENATO BATTISTA",
+        "partido": "MISSÃO",
+        "votos": 84857
+      },
+      "diff": 90975
+    }
+  ]
+}
