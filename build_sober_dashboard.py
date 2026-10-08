@@ -623,7 +623,7 @@ html_code = f"""<!DOCTYPE html>
 
       let rowsSobrasFila = '';
       d.proximos_fila.slice(0, 6).forEach((p, idx) => {{
-        const diffPto = (p.media - ultSobra.media).toFixed(1);
+        const diffPto = (p.media - ultSobra.media).toLocaleString('pt-BR', {{minimumFractionDigits: 1, maximumFractionDigits: 1}});
         const colors = partyPalette[p.cand.partido] || ['#334155', '#f8fafc'];
         rowsSobrasFila += `
           <tr>
@@ -639,7 +639,7 @@ html_code = f"""<!DOCTYPE html>
       }});
 
       let duelosHtml = '';
-      d.duelos_internos.slice(0, 3).forEach(duel => {{
+      d.duelos_internos.slice(0, 5).forEach(duel => {{
         const colors = partyPalette[duel.ultimo.partido] || ['#334155', '#f8fafc'];
         duelosHtml += `
           <div class="duel-item">
@@ -664,10 +664,13 @@ html_code = f"""<!DOCTYPE html>
         sobrasHistHtml += `${{h.rodada}}ª Sobra: <strong>${{h.partido.substring(0,25)}}</strong> (Média: ${{h.media.toLocaleString('pt-BR', {{minimumFractionDigits:1}})}}) &rarr; ${{h.cand.nome}} (${{h.cand.partido}})<br/>`;
       }});
 
+      const isFinalizado = g.secoes_pct === '100,00' || g.secoes_pct === '100%';
+      const badgeStatusTexto = isFinalizado ? 'TSE &bull; Apuração 100% Totalizada' : 'TSE &bull; Apuração em Andamento';
+
       const html = `
         <header>
           <div class="header-top">
-            <div class="badge-status">TSE &bull; Apuração em Andamento</div>
+            <div class="badge-status">${{badgeStatusTexto}}</div>
             <div class="header-date">
               Atualizado às ${{g.horario}} &bull; ${{g.secoes_pct}}% das seções totalizadas
             </div>
@@ -801,7 +804,7 @@ html_code = f"""<!DOCTYPE html>
                 ${{proxFila.cand.partido}} &bull; ${{fmt(proxFila.cand.votos)}} votos nominais
               </div>
               <div class="calc-row">
-                Média da Bancada: <strong>${{proxFila.media.toLocaleString('pt-BR', {{minimumFractionDigits: 1, maximumFractionDigits: 1}})}}</strong> (Diferença: ${{(proxFila.media - ultSobra.media).toFixed(1)}} pts)
+                Média da Bancada: <strong>${{proxFila.media.toLocaleString('pt-BR', {{minimumFractionDigits: 1, maximumFractionDigits: 1}})}}</strong> (Diferença: ${{(proxFila.media - ultSobra.media).toLocaleString('pt-BR', {{minimumFractionDigits: 1, maximumFractionDigits: 1}})}} pts)
               </div>
             </div>
           </div>
